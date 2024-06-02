@@ -1,0 +1,98 @@
+:root {
+	/* colors */
+	--white: #ffffff;
+	--light-grey: #d5e1ef;
+	--grey: #7d889e;
+	--dark-navy: #1f314f;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html {
+	font-size: 62.5%;
+	/* 1rem = 10px */
+}
+
+body {
+	font-family: "Outfit", sans-serif;
+	background-color: var(--light-grey);
+	min-height: 80rem;
+}
+
+h2,
+a {
+	font-weight: 700;
+	font-size: 2.2rem;
+}
+
+p {
+	font-weight: 400;
+	font-size: 1.5rem;
+}
+
+.container {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.qr-card {
+	max-width: 32rem;
+	margin: 15.2rem auto;
+	background-color: var(--white);
+	border-radius: 2rem;
+	padding: 1.6rem;
+	box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.05);
+}
+
+.qr-text {
+	text-align: center;
+	padding: 1.6rem;
+}
+
+.qr-text p {
+	padding: 0.8rem 0;
+	color: var(--grey);
+}
+
+.qr-text h2 {
+	padding: 0.8rem 0;
+	color: var(--dark-navy);
+}
+
+.qr-image {
+	padding-top: 0.8rem;
+}
+
+.qr-image img {
+	max-width: 28.8rem;
+	width: 100%;
+	border-radius: 1rem;
+}
+
+.attribution {
+	text-align: center;
+	line-height: 1.5;
+	padding: 0 2.4rem;
+}
+
+.attribution p {
+	padding: 0.2rem 0;
+	color: var(--grey);
+}
+
+.attribution a {
+	text-decoration: none;
+	color: var(--dark-navy);
+}
+
+@media (max-width: 375px) {
+	.qr-card {
+		margin-top: 8.5rem;
+	}
+}
