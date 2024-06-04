@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) by kaLihaRi90. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](https://kalihari90.github.io/frontend-mentor-1/images/screenshot.png)
+![Screenshot of the solution for QR code component challenge](https://kalihari90.github.io/frontend-mentor-1/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kalihari90/frontend-mentor-1)
-- Live Site URL: [Add live site URL here](https://kalihari90.github.io/frontend-mentor-1)
+- Solution URL: [Code - GitHub](https://github.com/kalihari90/frontend-mentor-1)
+- Live Site URL: [Live Demo - GitHub Pages](https://kalihari90.github.io/frontend-mentor-1)
 
 ## My process
 
@@ -37,11 +37,9 @@ I've learnt a workflow of the Frontend Mentor challenge. How to prepare for a pr
 
 ### Continued development
 
-In the future I must focus on the good naming of the classes. This project wasn't demanding so I don't know what can I do more to make my solution to the super ideal perfecto level.
+In the future I must focus on the good naming of the classes, so I must implement BEM naming convention. This project wasn't demanding so I don't know what can I do more to make my solution to the super ideal perfecto level.
 
 ## Author
 
 - GitHub - [kalihari90](https://github.com/kalihari90)
 - Frontend Mentor - [@kaLihaRi90](https://www.frontendmentor.io/profile/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
