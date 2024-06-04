@@ -42,4 +42,4 @@ In the future I must focus on the good naming of the classes, so I must implemen
 ## Author
 
 - GitHub - [kalihari90](https://github.com/kalihari90)
-- Frontend Mentor - [@kaLihaRi90](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kaLihaRi90](https://www.frontendmentor.io/profile/kalihari90)
