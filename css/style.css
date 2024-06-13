@@ -35,7 +35,7 @@ a {
 p {
 	font-size: 1.5rem;
 	font-weight: 400;
-	letter-spacing: 0.025rem;
+	letter-spacing: 0.02rem;
 }
 
 .container {
@@ -47,7 +47,7 @@ p {
 	max-width: 32rem;
 	margin: 15.2rem auto;
 	background-color: var(--white);
-	border-radius: 1.6rem;
+	border-radius: 2rem;
 	padding: 1.6rem;
 	box-shadow: 0 1.6rem 3.2rem rgba(0, 0, 0, 0.075);
 }
@@ -75,7 +75,7 @@ p {
 
 .qr-card__image img {
 	width: 100%;
-	border-radius: 0.8rem;
+	border-radius: 1rem;
 }
 
 .attribution {
