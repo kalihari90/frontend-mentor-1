@@ -35,7 +35,7 @@ a {
 p {
 	font-size: 1.5rem;
 	font-weight: 400;
-	letter-spacing: 0.02rem;
+	letter-spacing: 0.025rem;
 }
 
 .container {
@@ -49,25 +49,26 @@ p {
 	background-color: var(--white);
 	border-radius: 2rem;
 	padding: 1.6rem;
-	box-shadow: 0 1.6rem 3.2rem rgba(0, 0, 0, 0.04);
+	box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.1);
 }
 
-.qr-text {
+.qr-card__text {
 	text-align: center;
 	padding: 1.6rem;
+	margin-top: 1.6rem;
 }
 
-.qr-text p {
+.qr-card__text p {
 	padding: 0.8rem 0;
 	color: var(--grey);
 }
 
-.qr-text h1 {
+.qr-card__text h1 {
 	padding: 0.8rem 0;
 	color: var(--dark-navy);
 }
 
-.qr-image img {
+.qr-card__image img {
 	max-width: 28.8rem;
 	width: 100%;
 	border-radius: 1rem;
